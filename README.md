@@ -12,7 +12,7 @@ Building a WhatsApp Clone in Flutter.
 
 ### Created & Maintained By
 
-[Pawan Kumar](https://github.com/Danedie04) 
+[Dinesh Kumar](https://github.com/Danedie04) 
 > If you found this project helpful or you learned something from the source code 
 
 # License
